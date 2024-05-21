@@ -1,0 +1,8 @@
+// Searching operation
+// linear search, means, start from 0 index and check one by one every index number, 
+// it's advantage is that, even if the array is not in sorted order, still it can search the required number easily 
+
+// binary search , means, I'll give you range as well , to search the value, and everytime you have to start with the middle value , 
+// if the range is given greater than 500, then we will skip the numbers from 1 to 500, and , the array needs to be is sorted form for binary search 
+// the number of comparisons are being divided, 
+// 
